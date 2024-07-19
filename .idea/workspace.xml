@@ -4,34 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f25d6ee-3358-4768-acff-182c9bc2d8fc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/guessTheNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rockPaperScissor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/QuestionBankExam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QuestionBankExam.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/accessModifiers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/accessModifiers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arrayMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrayMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/collageAssignment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collageAssignment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/conditionalMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/conditionalMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/constWithInheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/constWithInheritance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/constructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/constructor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/inheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inheritance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetCodeProblemSolved.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetCodeProblemSolved.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/loopMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loopMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/method.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/method.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/overConst.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/overConst.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/querySolve3Oops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/querySolve3Oops.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/querySolve4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/querySolve4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/querySolve5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/querySolve5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/querySolve6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/querySolve6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/querySolve7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/querySolve7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/querySolve8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/querySolve8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/querySolve9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/querySolve9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stringMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stringMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/thisAndSuperKeyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thisAndSuperKeyword.java" afterDir="false" />
-    </list>
+    <list default="true" id="0f25d6ee-3358-4768-acff-182c9bc2d8fc" name="Changes" comment="set 9 complete" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -184,6 +157,35 @@
       <option name="presentableId" value="Default" />
       <updated>1709484367856</updated>
     </task>
+    <task id="LOCAL-00001" summary="set 9 complete">
+      <option name="closed" value="true" />
+      <created>1721384837175</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1721384837175</updated>
+    </task>
+    <task id="LOCAL-00002" summary="set 9 complete">
+      <option name="closed" value="true" />
+      <created>1721384849655</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1721384849655</updated>
+    </task>
+    <task id="LOCAL-00003" summary="set 9 complete">
+      <option name="closed" value="true" />
+      <created>1721384867120</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1721384867120</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="set 9 complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="set 9 complete" />
   </component>
 </project>
