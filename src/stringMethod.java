@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class stringMethod {
+public class stringMethod {
+    public static void main(String[] args) {
+
+    }
 }

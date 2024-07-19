@@ -81,9 +81,6 @@ public class querySolve8{
 
 // 4 problem create a rectangle 8 repeat 3
 
-
-
-
 /*class Rectangle{
  int length;
  int breath;
@@ -105,8 +102,8 @@ public class querySolve8 {
 
  }
 }*/
- // 5 create a class Tommy for Rockstar game capable of hitting ("print hitting") running, firing etc.
 
+ // 5 create a class Tommy for Rockstar game capable of hitting ("print hitting") running, firing etc.
 
 /*class Tommy{
     String Game;
@@ -149,7 +146,7 @@ class Circle{
 public class querySolve8{
     public static void main(String[] args) {
       Circle  cir = new Circle();
-        cir.radius = 4;
+        cir.radius = 8;
         System.out.println(cir.area());
         System.out.println(cir.perimeter());
     }

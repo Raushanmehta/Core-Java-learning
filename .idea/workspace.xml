@@ -4,11 +4,45 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f25d6ee-3358-4768-acff-182c9bc2d8fc" name="Changes" comment="" />
+    <list default="true" id="0f25d6ee-3358-4768-acff-182c9bc2d8fc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/guessTheNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rockPaperScissor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QuestionBankExam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QuestionBankExam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/accessModifiers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/accessModifiers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrayMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrayMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collageAssignment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collageAssignment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/conditionalMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/conditionalMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/constWithInheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/constWithInheritance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/constructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/constructor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inheritance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetCodeProblemSolved.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetCodeProblemSolved.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/loopMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loopMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/method.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/method.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/overConst.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/overConst.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/querySolve3Oops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/querySolve3Oops.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/querySolve4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/querySolve4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/querySolve5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/querySolve5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/querySolve6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/querySolve6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/querySolve7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/querySolve7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/querySolve8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/querySolve8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/querySolve9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/querySolve9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stringMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stringMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/thisAndSuperKeyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thisAndSuperKeyword.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -16,22 +50,124 @@
   <component name="MacroExpansionManager">
     <option name="directoryName" value="zbj3qr18" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2dBbLy3jpAnClwI9nCesrPBxzu6" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.GuessTheNumber.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MainEmployee.executor": "Run",
+    "Application.Oops.executor": "Run",
+    "Application.QuestionBankExam (1).executor": "Run",
+    "Application.QuestionBankExam.executor": "Run",
+    "Application.accessModifiers.executor": "Run",
+    "Application.arrayMethod.executor": "Run",
+    "Application.constWithInheritance (1).executor": "Run",
+    "Application.constWithInheritance (2).executor": "Run",
+    "Application.constWithInheritance.executor": "Run",
+    "Application.constructor.executor": "Run",
+    "Application.guessTheNumber.executor": "Run",
+    "Application.inheritance (1).executor": "Run",
+    "Application.inheritance.executor": "Run",
+    "Application.leetCodeProblemSolved.executor": "Run",
+    "Application.method.executor": "Run",
+    "Application.overConst (1).executor": "Run",
+    "Application.overConst (2).executor": "Run",
+    "Application.overConst (3).executor": "Run",
+    "Application.overConst.executor": "Run",
+    "Application.querySolve3Oops (1).executor": "Run",
+    "Application.querySolve3Oops.executor": "Run",
+    "Application.querySolve4.executor": "Run",
+    "Application.querySolve6.executor": "Run",
+    "Application.querySolve7.executor": "Run",
+    "Application.querySolve8.executor": "Run",
+    "Application.querySolve9 (1).executor": "Run",
+    "Application.querySolve9 (2).executor": "Run",
+    "Application.querySolve9.executor": "Run",
+    "Application.rockPaperScissor.executor": "Run",
+    "Application.thisAndSuperKeyword.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/CODDING/PROJECT/JAVA PROJECT"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.querySolve9 (1)">
+    <configuration name="MainEmployee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainEmployee" />
+      <module name="myapp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="constructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="constructor" />
+      <module name="myapp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="guessTheNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="guessTheNumber" />
+      <module name="myapp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="querySolve9 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="querySolve9" />
+      <module name="myapp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="querySolve9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="querySolve9" />
+      <module name="myapp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="Remote">
+      <module name="myapp" />
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <option name="AUTO_RESTART" value="false" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.MainEmployee" />
+      <item itemvalue="Application.constructor" />
+      <item itemvalue="Application.guessTheNumber" />
+      <item itemvalue="Application.querySolve9" />
+      <item itemvalue="Application.querySolve9 (1)" />
+      <item itemvalue="Remote JVM Debug.Unnamed" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.querySolve9 (1)" />
+        <item itemvalue="Application.querySolve9" />
+        <item itemvalue="Application.guessTheNumber" />
+        <item itemvalue="Application.MainEmployee" />
+        <item itemvalue="Application.constructor" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
