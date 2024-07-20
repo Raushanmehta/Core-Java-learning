@@ -42,14 +42,14 @@ class Animal{
     }
 }
 class Dog extends Animal{
-    String speake;
+    String bark ;
 
-    public String getSpeake() {
-        return speake;
+    public String getBark() {
+        return bark;
     }
 
-    public void setSpeake(String speake) {
-        this.speake = speake;
+    public void setBark(String bark) {
+        this.bark = bark;
     }
 }
 public class inheritance {
@@ -68,7 +68,7 @@ public class inheritance {
      a.setName("Dog");
         System.out.println(a.getName());
       Dog s = new Dog();
-      s.setName("brake");
+      s.setName("bark");
         System.out.println(s.getName());
     }
 }
