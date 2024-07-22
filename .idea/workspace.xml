@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0f25d6ee-3358-4768-acff-182c9bc2d8fc" name="Changes" comment="set 9 complete">
-      <change afterPath="$PROJECT_DIR$/src/dynamicMethodDispatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/library.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/methodOverriding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/querySolve10.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/constWithInheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/constWithInheritance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/guessTheNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/guessTheNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/inheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inheritance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/thisAndSuperKeyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thisAndSuperKeyword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/querySolve10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/querySolve10.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +67,12 @@
     "Application.overConst (2).executor": "Run",
     "Application.overConst (3).executor": "Run",
     "Application.overConst.executor": "Run",
+    "Application.querySolve10 (1).executor": "Run",
+    "Application.querySolve10 (2).executor": "Run",
+    "Application.querySolve10 (3).executor": "Run",
+    "Application.querySolve10 (4).executor": "Run",
+    "Application.querySolve10 (5).executor": "Run",
+    "Application.querySolve10.executor": "Run",
     "Application.querySolve3Oops (1).executor": "Run",
     "Application.querySolve3Oops.executor": "Run",
     "Application.querySolve4.executor": "Run",
@@ -91,37 +90,37 @@
     "last_opened_file_path": "E:/CODDING/PROJECT/JAVA PROJECT"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.guessTheNumber (2)">
-    <configuration name="dynamicMethodDispatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dynamicMethodDispatch" />
+  <component name="RunManager" selected="Application.querySolve10 (3)">
+    <configuration name="querySolve10 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="querySolve10" />
       <module name="myapp" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="guessTheNumber (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="guessTheNumber" />
+    <configuration name="querySolve10 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="querySolve10" />
       <module name="myapp" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="guessTheNumber (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="guessTheNumber" />
+    <configuration name="querySolve10 (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="querySolve10" />
       <module name="myapp" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="guessTheNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="guessTheNumber" />
+    <configuration name="querySolve10 (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="querySolve10" />
       <module name="myapp" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="methodOverriding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="methodOverriding" />
+    <configuration name="querySolve10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="querySolve10" />
       <module name="myapp" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -138,20 +137,20 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.dynamicMethodDispatch" />
-      <item itemvalue="Application.guessTheNumber (1)" />
-      <item itemvalue="Application.guessTheNumber (2)" />
-      <item itemvalue="Application.methodOverriding" />
-      <item itemvalue="Application.guessTheNumber" />
+      <item itemvalue="Application.querySolve10 (4)" />
+      <item itemvalue="Application.querySolve10" />
+      <item itemvalue="Application.querySolve10 (1)" />
+      <item itemvalue="Application.querySolve10 (2)" />
+      <item itemvalue="Application.querySolve10 (3)" />
       <item itemvalue="Remote JVM Debug.Unnamed" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.guessTheNumber (2)" />
-        <item itemvalue="Application.guessTheNumber (1)" />
-        <item itemvalue="Application.guessTheNumber" />
-        <item itemvalue="Application.dynamicMethodDispatch" />
-        <item itemvalue="Application.methodOverriding" />
+        <item itemvalue="Application.querySolve10 (3)" />
+        <item itemvalue="Application.querySolve10 (2)" />
+        <item itemvalue="Application.querySolve10 (4)" />
+        <item itemvalue="Application.querySolve10 (1)" />
+        <item itemvalue="Application.querySolve10" />
       </list>
     </recent_temporary>
   </component>
