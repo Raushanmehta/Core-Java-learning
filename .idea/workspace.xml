@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="0f25d6ee-3358-4768-acff-182c9bc2d8fc" name="Changes" comment="set 9 complete">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/querySolve10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/querySolve10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/abstractClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstractClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/intFace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intFace.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +49,7 @@
     "Application.Oops.executor": "Run",
     "Application.QuestionBankExam (1).executor": "Run",
     "Application.QuestionBankExam.executor": "Run",
+    "Application.abstractClass.executor": "Run",
     "Application.accessModifiers.executor": "Run",
     "Application.arrayMethod.executor": "Run",
     "Application.constWithInheritance (1).executor": "Run",
@@ -60,6 +62,10 @@
     "Application.guessTheNumber.executor": "Run",
     "Application.inheritance (1).executor": "Run",
     "Application.inheritance.executor": "Run",
+    "Application.intFace (1).executor": "Run",
+    "Application.intFace (2).executor": "Run",
+    "Application.intFace (3).executor": "Run",
+    "Application.intFace.executor": "Run",
     "Application.leetCodeProblemSolved.executor": "Run",
     "Application.method.executor": "Run",
     "Application.methodOverriding.executor": "Run",
@@ -87,40 +93,41 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "E:/CODDING/PROJECT/JAVA PROJECT"
+    "last_opened_file_path": "E:/CODDING/PROJECT/JAVA PROJECT",
+    "settings.editor.selected.configurable": "advanced.settings"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.querySolve10 (3)">
-    <configuration name="querySolve10 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="querySolve10" />
+  <component name="RunManager" selected="Application.intFace (3)">
+    <configuration name="abstractClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="abstractClass" />
       <module name="myapp" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="querySolve10 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="querySolve10" />
+    <configuration name="intFace (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intFace" />
       <module name="myapp" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="querySolve10 (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="querySolve10" />
+    <configuration name="intFace (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intFace" />
       <module name="myapp" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="querySolve10 (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="querySolve10" />
+    <configuration name="intFace (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intFace" />
       <module name="myapp" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="querySolve10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="querySolve10" />
+    <configuration name="intFace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intFace" />
       <module name="myapp" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -137,20 +144,20 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.querySolve10 (4)" />
-      <item itemvalue="Application.querySolve10" />
-      <item itemvalue="Application.querySolve10 (1)" />
-      <item itemvalue="Application.querySolve10 (2)" />
-      <item itemvalue="Application.querySolve10 (3)" />
+      <item itemvalue="Application.intFace (3)" />
+      <item itemvalue="Application.intFace (2)" />
+      <item itemvalue="Application.abstractClass" />
+      <item itemvalue="Application.intFace" />
+      <item itemvalue="Application.intFace (1)" />
       <item itemvalue="Remote JVM Debug.Unnamed" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.querySolve10 (3)" />
-        <item itemvalue="Application.querySolve10 (2)" />
-        <item itemvalue="Application.querySolve10 (4)" />
-        <item itemvalue="Application.querySolve10 (1)" />
-        <item itemvalue="Application.querySolve10" />
+        <item itemvalue="Application.intFace (3)" />
+        <item itemvalue="Application.intFace (2)" />
+        <item itemvalue="Application.intFace" />
+        <item itemvalue="Application.intFace (1)" />
+        <item itemvalue="Application.abstractClass" />
       </list>
     </recent_temporary>
   </component>
