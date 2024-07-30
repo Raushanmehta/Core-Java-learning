@@ -1,7 +1,8 @@
 abstract class Parent{
 
  public Parent(){
-        System.out.println("I am base parent in class");
+
+     System.out.println("I am base parent in class");
     }
     public void sayHello(){
         System.out.println("Hello");
@@ -12,15 +13,18 @@ abstract class Parent{
  class child extends Parent{
     @Override
     public void greet(){
+
         System.out.println("Good morning");
     } @Override
     public void greet2(){
+
         System.out.println("Good morning");
     }
 }
 
 abstract class child2 extends Parent{
     public void th(){
+
         System.out.println("good evening");
     }
 }

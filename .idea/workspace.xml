@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0f25d6ee-3358-4768-acff-182c9bc2d8fc" name="Changes" comment="set 9 complete">
+      <change afterPath="$PROJECT_DIR$/src/inherit_interfaces.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/querySolve11.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/abstractClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstractClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/intFace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intFace.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +61,7 @@
     "Application.guessTheNumber (1).executor": "Run",
     "Application.guessTheNumber (2).executor": "Run",
     "Application.guessTheNumber.executor": "Run",
+    "Application.inherit_interfaces.executor": "Run",
     "Application.inheritance (1).executor": "Run",
     "Application.inheritance.executor": "Run",
     "Application.intFace (1).executor": "Run",
@@ -79,6 +81,7 @@
     "Application.querySolve10 (4).executor": "Run",
     "Application.querySolve10 (5).executor": "Run",
     "Application.querySolve10.executor": "Run",
+    "Application.querySolve11.executor": "Run",
     "Application.querySolve3Oops (1).executor": "Run",
     "Application.querySolve3Oops.executor": "Run",
     "Application.querySolve4.executor": "Run",
@@ -93,20 +96,13 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "E:/CODDING/PROJECT/JAVA PROJECT",
+    "last_opened_file_path": "E:/CODDING/PROJECT/JAVA PROJECT/Aeroplane Reservation",
     "settings.editor.selected.configurable": "advanced.settings"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.intFace (3)">
-    <configuration name="abstractClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="abstractClass" />
-      <module name="myapp" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="intFace (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="intFace" />
+  <component name="RunManager" selected="Application.querySolve11">
+    <configuration name="inherit_interfaces" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inherit_interfaces" />
       <module name="myapp" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -133,6 +129,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="querySolve11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="querySolve11" />
+      <module name="myapp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Unnamed" type="Remote">
       <module name="myapp" />
       <option name="USE_SOCKET_TRANSPORT" value="true" />
@@ -144,20 +147,20 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Application.inherit_interfaces" />
       <item itemvalue="Application.intFace (3)" />
+      <item itemvalue="Application.querySolve11" />
       <item itemvalue="Application.intFace (2)" />
-      <item itemvalue="Application.abstractClass" />
       <item itemvalue="Application.intFace" />
-      <item itemvalue="Application.intFace (1)" />
       <item itemvalue="Remote JVM Debug.Unnamed" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.querySolve11" />
+        <item itemvalue="Application.inherit_interfaces" />
         <item itemvalue="Application.intFace (3)" />
         <item itemvalue="Application.intFace (2)" />
         <item itemvalue="Application.intFace" />
-        <item itemvalue="Application.intFace (1)" />
-        <item itemvalue="Application.abstractClass" />
       </list>
     </recent_temporary>
   </component>
