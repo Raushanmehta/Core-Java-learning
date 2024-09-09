@@ -10,7 +10,7 @@ class Base{
         this.x = x;
     }
 
-    public void printMe(){
+    public void Brake(){
         System.out.println("I am constructor");
     }
 }
