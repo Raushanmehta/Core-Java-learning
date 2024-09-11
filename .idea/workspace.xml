@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f25d6ee-3358-4768-acff-182c9bc2d8fc" name="Changes" comment="set 9 complete">
-      <change afterPath="$PROJECT_DIR$/src/exceptionClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/throwAndThrows.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/guessTheNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/guessTheNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/inheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inheritance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/threadRunnable.java" beforeDir="false" />
-    </list>
+    <list default="true" id="0f25d6ee-3358-4768-acff-182c9bc2d8fc" name="Changes" comment="set 9 complete" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -103,7 +96,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "E:/CODDING/LEARN JAVA/myapp",
+    "last_opened_file_path": "E:/CODDING/LEARN DSA WITH JAVA/DSA with java",
     "settings.editor.selected.configurable": "advanced.settings"
   }
 }]]></component>
