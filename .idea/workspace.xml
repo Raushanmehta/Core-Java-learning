@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0f25d6ee-3358-4768-acff-182c9bc2d8fc" name="Changes" comment="set 9 complete">
-      <change afterPath="$PROJECT_DIR$/src/calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/querySolve14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/querySolve14.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +50,7 @@
     "Application.QuestionBankExam.executor": "Run",
     "Application.abstractClass.executor": "Run",
     "Application.accessModifiers.executor": "Run",
+    "Application.arrayList.executor": "Run",
     "Application.arrayMethod.executor": "Run",
     "Application.constWithInheritance (1).executor": "Run",
     "Application.constWithInheritance (2).executor": "Run",
@@ -105,7 +105,14 @@
     "settings.editor.selected.configurable": "advanced.settings"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.querySolve14">
+  <component name="RunManager" selected="Application.arrayList">
+    <configuration name="arrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrayList" />
+      <module name="myapp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="exceptionClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exceptionClass" />
       <module name="myapp" />
@@ -122,13 +129,6 @@
     </configuration>
     <configuration name="querySolve14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="querySolve14" />
-      <module name="myapp" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="shape" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="shape" />
       <module name="myapp" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -152,20 +152,20 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Application.arrayList" />
       <item itemvalue="Application.querySolve14" />
       <item itemvalue="Application.inheritance" />
-      <item itemvalue="Application.shape" />
       <item itemvalue="Application.throwAndThrows" />
       <item itemvalue="Application.exceptionClass" />
       <item itemvalue="Remote JVM Debug.Unnamed" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.arrayList" />
         <item itemvalue="Application.querySolve14" />
         <item itemvalue="Application.exceptionClass" />
         <item itemvalue="Application.throwAndThrows" />
         <item itemvalue="Application.inheritance" />
-        <item itemvalue="Application.shape" />
       </list>
     </recent_temporary>
   </component>
