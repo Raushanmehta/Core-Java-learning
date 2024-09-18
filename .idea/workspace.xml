@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f25d6ee-3358-4768-acff-182c9bc2d8fc" name="Changes" comment="set 9 complete" />
+    <list default="true" id="0f25d6ee-3358-4768-acff-182c9bc2d8fc" name="Changes" comment="set 9 complete">
+      <change afterPath="$PROJECT_DIR$/src/querySolve14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -96,18 +99,11 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "E:/CODDING/LEARN DSA WITH JAVA/DSA with java",
+    "last_opened_file_path": "E:/CODDING/LEARN JAVA/Core-Java-learning",
     "settings.editor.selected.configurable": "advanced.settings"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.throwAndThrows">
-    <configuration name="exceptionClass (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exceptionClass" />
-      <module name="myapp" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.querySolve14">
     <configuration name="exceptionClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exceptionClass" />
       <module name="myapp" />
@@ -117,6 +113,13 @@
     </configuration>
     <configuration name="inheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="inheritance" />
+      <module name="myapp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="querySolve14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="querySolve14" />
       <module name="myapp" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -147,20 +150,20 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Application.querySolve14" />
       <item itemvalue="Application.inheritance" />
       <item itemvalue="Application.shape" />
       <item itemvalue="Application.throwAndThrows" />
       <item itemvalue="Application.exceptionClass" />
-      <item itemvalue="Application.exceptionClass (2)" />
       <item itemvalue="Remote JVM Debug.Unnamed" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.throwAndThrows" />
+        <item itemvalue="Application.querySolve14" />
         <item itemvalue="Application.exceptionClass" />
+        <item itemvalue="Application.throwAndThrows" />
         <item itemvalue="Application.inheritance" />
         <item itemvalue="Application.shape" />
-        <item itemvalue="Application.exceptionClass (2)" />
       </list>
     </recent_temporary>
   </component>
